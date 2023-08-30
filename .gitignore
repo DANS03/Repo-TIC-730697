@@ -1,2 +1,4 @@
 #Ignoramos el archivo log_prueba
 /log_prueba.txt
+**/logs
+/modlules/
